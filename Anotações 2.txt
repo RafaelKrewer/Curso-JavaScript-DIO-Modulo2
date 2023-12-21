@@ -26,16 +26,19 @@ Arrumar Código:
     Alt + Shift + F;
 
 Escrever Pipe (||):
-Shift + Pipe(do lado do Z);
+    Shift + Pipe(do lado do Z);
 
 Alterar nome de todas as constantes/variáveis iguais 
-Click + F2;
+    Click + F2;
 
 Procurar arquivo por nome:
-Control + 'P';
+    Control + 'P';
+
+Instalar um servidor http:
+    npm install -g http-server;
 
 Iniciar um servidor http:
-http-server ./;
+    http-server ./;
 
 //
 
