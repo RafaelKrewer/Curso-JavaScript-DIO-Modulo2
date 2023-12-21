@@ -117,3 +117,12 @@ i++ === let i = 1;
      else if (numero > maiorNumeroPar) {
             maiorNumeroPar = numero;
         }
+
+//
+
+Desenvolvimento WEB:
+
+Ordem dos fatores(HTML):
+
+head: css(style), title;
+body: h1, p, script;
