@@ -1,0 +1,116 @@
+Atalhos:
+Copiar linha:
+    Shift + Alt + ↓/↑;
+
+Mover linha:
+    Alt + ↓/↑;
+
+Indentar linha:
+    Ctrl + ]/[;
+
+Copiar tudo:
+    Ctrl + A;
+
+Recortar:
+    Ctrl + X;
+
+Selecionar várias linhas de uma vez:
+    Alt + Click;
+
+Crase:
+    Alt + 9 + 6;
+    ou
+    Shift + Crase + Espaço;
+
+Arrumar Código:
+    Alt + Shift + F;
+
+Escrever Pipe (||):
+Shift + Pipe(do lado do Z);
+
+Alterar nome de todas as constantes/variáveis iguais 
+Click + F2;
+
+Procurar arquivo por nome:
+Control + 'P';
+
+Iniciar um servidor http:
+http-server ./;
+
+//
+
+Operadores:
+    + === adição
+    - === subtração
+    * === multiplicação
+    / === divisão real (vírgula)
+    % === divisão inteira (resto)
+   ** === potência (ao quadrado)
+
+     =  Atribui a
+    ==	Igual a (pode ser string ou número)
+   ===  Igual a (não pode ser string)
+    !=	Diferente 
+    <=	Menor ou Igual
+    >=	Maior ou Igual
+
+Switch não funciona quando tem que comparar valores numéricos!
+
+//
+
+Objetos:
+    rafael['nome'] = 'teste';
+    rafael.nome = 'teste';
+
+Guardar Informação:
+    classIMC(){
+            const imc = this.calcIMC();
+        }
+
+function descreverPessoa(pessoa) {
+        console.log(`Nome: ${pessoa.nome}; Idade: ${pessoa.idade};`);
+    }
+
+    const renan = new Pessoa('Renan', 30);
+    console.log(descreverPessoa(renan));
+
+//
+
+Arrays(listas):
+    São representadas assim:
+        const alunos = ['João', 'Lucas', 'Guilherme', 'Adriana'];
+
+    Para chamar só a primeira pessoa (João):
+        console.log(alunos[0]);
+
+    Para adicionar algo:
+        alunos.push('Rafael');
+
+    Fazer uma média (arredondada):
+        console.log(notas.length);
+
+    Fazer uma média, com valor decimal:
+        const soma = notas[0] + notas[1] + notas[2] + notas[3] + notas[4] + notas[5];
+            console.log(soma / 6);
+            
+    Dar um print em determinada característica da function(pessoa):
+        if (pessoa.nome === 'Rafael'){
+            pessoa.print();
+                }
+
+//
+
+Estruturas de Repetição:
+ 
+for (let i = 0; i < 10; i++) {
+    
+}
+i++ === let i = 1;
+        ++ = +1;
+
+    Ele vai repetir a mesma coisa até chegar em um número que é maior do que 10.
+
+
+     else if (numero > maiorNumeroPar) {
+            maiorNumeroPar = numero;
+        }
