@@ -1,44 +1,44 @@
 Atalhos:
 Copiar linha:
-    Shift + Alt + ↓/↑;
+    Shift + Alt + ↓/↑
 
 Mover linha:
-    Alt + ↓/↑;
+    Alt + ↓/↑
 
 Indentar linha:
-    Ctrl + ]/[;
+    Ctrl + ]/[
 
 Copiar tudo:
-    Ctrl + A;
+    Ctrl + A
 
 Recortar:
-    Ctrl + X;
+    Ctrl + X
 
 Selecionar várias linhas de uma vez:
-    Alt + Click;
+    Alt + Click
 
 Crase:
-    Alt + 9 + 6;
+    Alt + 9 + 6
     ou
-    Shift + Crase + Espaço;
+    Shift + Crase + Espaço
 
 Arrumar Código:
-    Alt + Shift + F;
+    Alt + Shift + F
 
 Escrever Pipe (||):
-    Shift + Pipe(do lado do Z);
+    Shift + Pipe(do lado do Z)
 
 Alterar nome de todas as constantes/variáveis iguais 
-    Click + F2;
+    Click + F2
 
 Procurar arquivo por nome:
-    Control + 'P';
+    Control + 'P'
 
 Instalar um servidor http:
-    npm install -g http-server;
+    npm install -g http-server
 
 Iniciar um servidor http:
-    http-server ./;
+    http-server ./
 
 //
 
