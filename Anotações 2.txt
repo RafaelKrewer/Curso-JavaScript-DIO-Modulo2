@@ -41,6 +41,9 @@ Instalar um servidor http:
 Iniciar um servidor http:
     http-server ./
 
+Fazer comentário no HTML:
+    <!-- Comentário -->
+
 //
 
 Operadores:
