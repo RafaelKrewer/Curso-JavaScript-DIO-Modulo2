@@ -1,4 +1,5 @@
 Atalhos:
+
 Copiar linha:
     Shift + Alt + ↓/↑
 
