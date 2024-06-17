@@ -44,6 +44,10 @@ Iniciar um servidor http:
 Fazer comentário no HTML:
     <!-- Comentário -->
 
+Voltar para configuração original do DevTools (inspecionar)
+    F5
+
+
 //
 
 Operadores:
