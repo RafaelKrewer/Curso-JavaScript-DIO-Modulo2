@@ -7,8 +7,10 @@ Mover linha:
     Alt + ↓/↑
 
 Indentar linha:
-    Ctrl + ]/[
-
+    Ctrl + ]/[ 
+    ou
+    Tab
+    
 Copiar tudo:
     Ctrl + A
 
