@@ -1,33 +1,36 @@
 * {
   font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
 }
 
 .titulo {
-  margin: 1rem;
+  padding: 1rem;
 }
 
 ul.texto {
-  list-style: none;
-  padding: 1rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-right: 1rem;
-  margin-left: 1rem;
+  justify-content: center; /* Centraliza os itens horizontalmente */
+  gap: 1rem; /* Espaçamento entre as colunas */
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 ul.texto li {
-  list-style: none;
-  padding: 1rem;
-  margin: 0.5rem;
-  background-color: #0f7954;
-  color: rgb(232, 232, 232);
-  border-radius: 1rem;
   display: flex;
   flex-direction: column;
+  justify-content: center; /* Centraliza o conteúdo verticalmente */
+  align-items: center; /* Centraliza o conteúdo horizontalmente */
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: #0f7967;
+  color: rgb(204, 204, 204);
   max-width: fit-content;
 }
 
-.texto img {
+.texto img /*imagem*/ {                
   max-width: 9rem;
   max-height: 11.25rem;
 }
+
