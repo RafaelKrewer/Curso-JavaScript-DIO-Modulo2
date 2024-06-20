@@ -49,6 +49,8 @@ Fazer comentário no HTML:
 Voltar para configuração original do DevTools (inspecionar) (deleta element.style)
     F5
 
+Clonar repositório do GitHub:
+    git clone
 
 //
 
