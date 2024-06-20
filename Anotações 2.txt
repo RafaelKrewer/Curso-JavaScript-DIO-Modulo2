@@ -64,6 +64,7 @@ Voltar para configuração original do DevTools (inspecionar) (deleta element.st
 
 Sair de um arquivo:
     Control + K   F
+
 Branch:
     Uma versão paralela do código que está contida dentro do repositório, mas não afeta a ramificação primária ou principal.
 
@@ -171,7 +172,9 @@ i++ === let i = 1;
             maiorNumeroPar = numero;
         }
 
+
 //
+
 
 Desenvolvimento WEB:
 
@@ -182,3 +185,15 @@ body: h1, p, script;
 
 Push = Empurrar
 Pull = Puxar
+
+Desfazer o Control Z:
+Control + Y
+
+Instalar um servidor http:
+    npm install -g http-server
+
+Iniciar um servidor http:
+    http-server ./
+
+Voltar para configuração original do DevTools (inspecionar) (deleta element.style)
+    F5
