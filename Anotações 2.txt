@@ -49,8 +49,30 @@ Fazer comentário no HTML:
 Voltar para configuração original do DevTools (inspecionar) (deleta element.style)
     F5
 
+Branch:
+    Uma versão paralela do código que está contida dentro do repositório, mas não afeta a ramificação primária ou principal.
+
+Clone	
+    Baixar uma cópia completa dos dados de um repositório de GitHub.com, incluindo todas as versões de cada arquivo e pasta.
+
+Fork	
+    Um novo repositório que compartilha configurações de código e visibilidade com o repositório "upstream" original.
+
+Mesclar	
+    Pegar as alterações de um branch e aplicá-las à outra.
+
+Solicitação de pull	
+    Uma solicitação para mesclar as alterações de um branch em outro.
+
+Remoto	
+    Um repositório armazenado no GitHub, não no seu computador.
+
+Upstream	
+    O branch em um repositório original em que foi criado um fork ou clonado. O branch correspondente no branch clonado ou em que o fork foi criado é chamado de "downstream".
+
 
 //
+
 
 Operadores:
     + === adição
@@ -69,7 +91,9 @@ Operadores:
 
 Switch não funciona quando tem que comparar valores numéricos!
 
+
 //
+
 
 Objetos:
     rafael['nome'] = 'teste';
@@ -87,31 +111,35 @@ function descreverPessoa(pessoa) {
     const renan = new Pessoa('Renan', 30);
     console.log(descreverPessoa(renan));
 
+
 //
+
 
 Arrays(listas):
-    São representadas assim:
-        const alunos = ['João', 'Lucas', 'Guilherme', 'Adriana'];
+São representadas assim:
+    const alunos = ['João', 'Lucas', 'Guilherme', 'Adriana'];
 
-    Para chamar só a primeira pessoa (João):
-        console.log(alunos[0]);
+Para chamar só a primeira pessoa (João):
+    console.log(alunos[0]);
 
-    Para adicionar algo:
-        alunos.push('Rafael');
+Para adicionar algo:
+    alunos.push('Rafael');
 
-    Fazer uma média (arredondada):
-        console.log(notas.length);
+Fazer uma média (arredondada):
+    console.log(notas.length);
 
-    Fazer uma média, com valor decimal:
-        const soma = notas[0] + notas[1] + notas[2] + notas[3] + notas[4] + notas[5];
-            console.log(soma / 6);
+Fazer uma média, com valor decimal:
+    const soma = notas[0] + notas[1] + notas[2] + notas[3] + notas[4] + notas[5];
+        console.log(soma / 6);
             
-    Dar um print em determinada característica da function(pessoa):
-        if (pessoa.nome === 'Rafael'){
-            pessoa.print();
-                }
+Dar um print em determinada característica da function(pessoa):
+    if (pessoa.nome === 'Rafael'){
+        pessoa.print();
+            }
+
 
 //
+
 
 Estruturas de Repetição:
  
@@ -136,3 +164,4 @@ Ordem dos fatores(HTML):
 
 head: css(style), title;
 body: h1, p, script;
+
