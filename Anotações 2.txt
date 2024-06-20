@@ -1,4 +1,17 @@
+DIO:
+rafaelkrewer5@gmail.com
+salvacao
+
+GitHub:
+rafaelkrewer5@gmail.com
+salvacao1@
+
+
+
 Atalhos:
+
+Dar um print no terminal:
+node arquivo
 
 Copiar linha:
     Shift + Alt + ↓/↑
@@ -49,6 +62,8 @@ Fazer comentário no HTML:
 Voltar para configuração original do DevTools (inspecionar) (deleta element.style)
     F5
 
+Sair de um arquivo:
+    Control + K   F
 Branch:
     Uma versão paralela do código que está contida dentro do repositório, mas não afeta a ramificação primária ou principal.
 
@@ -165,3 +180,5 @@ Ordem dos fatores(HTML):
 head: css(style), title;
 body: h1, p, script;
 
+Push = Empurrar
+Pull = Puxar
