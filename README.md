@@ -14,7 +14,7 @@
  
  <a>Funcionalidades e Demonstração da Aplicação</a>
  
- <a>Link de Acesso ao Projeto:</a>
+ <a>Link de Acesso ao Projeto: https://rafaelkrewer.github.io/Curso-JavaScript-DIO-Modulo2/</a>
  
  <a>Tecnologias utilizadas: JavaScript, HTML, CSS</a>
  
@@ -22,7 +22,7 @@
  
  <a>Pessoas Desenvolvedoras do Projeto: Rafael Krewer</a>
  
- <a>Licença: nenhuma</a>
+ <a>Licença: Nenhuma</a>
  
  <a>Conclusão: Espero que não demore muito para fazer esse site</a>
  
