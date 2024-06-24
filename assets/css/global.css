@@ -7,7 +7,7 @@
   padding: 1rem;
 }
 
-ul.texto {
+ol.texto {
   display: grid;
   grid-template-columns: 1fr 1fr;
   justify-content: center; /* Centraliza os itens horizontalmente */
@@ -17,11 +17,11 @@ ul.texto {
   margin: 0;
 }
 
-ul.texto li {
+ol.texto li {
   display: flex;
   flex-direction: column;
   justify-content: center; /* Centraliza o conteúdo verticalmente */
-  align-items: center; /* Centraliza o conteúdo horizontalmente */
+  align-items: right; /* Centraliza o conteúdo horizontalmente */
   padding: 1rem;
   border-radius: 1rem;
   background-color: #0f7967;
@@ -29,8 +29,11 @@ ul.texto li {
   max-width: fit-content;
 }
 
-.texto img /*imagem*/ {                
-  max-width: 9rem;
-  max-height: 11.25rem;
+.texto img /*imagem*/ {    
+  display: flex;            
+  max-width: 180px;
+  max-height: 180px;
+  object-fit: cover;
+  object-position: center;
 }
 
