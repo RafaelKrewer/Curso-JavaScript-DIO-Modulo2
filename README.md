@@ -24,7 +24,7 @@
  
  <a>Licença: nenhuma</a>
  
- [Conclusão; Espero que não demore muito para fazer esse site.](#conclusão)
+ <a>Conclusão: Espero que não demore muito para fazer esse site</a>
  
  <p>
 > :construction: Projeto em construção :construction:
