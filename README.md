@@ -5,25 +5,17 @@
 # Índice 
 
  <p> Título e Imagem de capa
-  
- <a>Badges</a>
- 
- <a>Índice</a>
  
  <a>Descrição do Projeto</a>
- 
- <a>Funcionalidades e Demonstração da Aplicação</a>
  
  <a>Link de Acesso ao Projeto: https://rafaelkrewer.github.io/Curso-JavaScript-DIO-Modulo2/</a>
  
  <a>Tecnologias utilizadas: JavaScript, HTML, CSS</a>
  
- <a>Pessoas Contribuidoras: Rafael Krewer</a>
+ <a>Contribuidores: César Krewer, Rafael Krewer</a>
  
- <a>Pessoas Desenvolvedoras do Projeto: Rafael Krewer</a>
- 
- <a>Licença: Nenhuma</a>
- 
+ <a>Desenvolvedores do Projeto: Rafael Krewer</a>
+
  <a>Conclusão: Espero que não demore muito para fazer esse site</a>
  
  <p>
