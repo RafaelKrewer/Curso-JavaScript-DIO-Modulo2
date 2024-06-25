@@ -7,6 +7,10 @@ rafaelkrewer5@gmail.com
 salvacao1@
 
 
+Ideias:
+Fazer uma calculadora;
+Aprender ReactJS (tem o curso na DIO)
+Lógica de Programação
 
 Atalhos:
 
