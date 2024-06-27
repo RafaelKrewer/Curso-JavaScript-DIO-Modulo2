@@ -29,11 +29,11 @@ ol.texto li {
   max-width: fit-content;
 }
 
-.texto img /*imagem*/ {    
-  display: flex;            
+.texto img {
+  display: block;
   max-width: 180px;
   max-height: 180px;
-  object-fit: cover;
-  object-position: center;
+  width: 100%; /* Define a largura como 100% */
+  height: auto; /* Altura automática para manter a proporção */
+  object-fit: contain; /* Garante que a imagem mantenha a proporção */
 }
-
