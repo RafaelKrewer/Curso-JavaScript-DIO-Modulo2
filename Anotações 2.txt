@@ -12,10 +12,11 @@ Fazer uma calculadora;
 Aprender ReactJS (tem o curso na DIO)
 Lógica de Programação
 
+
 Atalhos:
 
 Dar um print no terminal:
-node arquivo
+    node arquivo
 
 Copiar linha:
     Shift + Alt + ↓/↑
