@@ -37,6 +37,6 @@ ol.texto li {
   object-position: center;
 }
 
-span.number {
+li.number {
   color: #139882;
 }
