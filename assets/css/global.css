@@ -10,8 +10,6 @@
 ol.texto {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  justify-content: center; /* Centraliza os itens horizontalmente */
-  gap: 1rem; /* Espaçamento entre as colunas */
   list-style: none;
   padding: 0;
   margin: 0;
@@ -21,7 +19,6 @@ ol.texto li {
   display: flex;
   flex-direction: column;
   justify-content: center; /* Centraliza o conteúdo verticalmente */
-  align-items: right; /* Centraliza o conteúdo horizontalmente */
   padding: 1rem;
   border-radius: 1rem;
   background-color: #0f7967;
@@ -37,6 +34,10 @@ ol.texto li {
   object-position: center;
 }
 
-li.number {
+li.type {
   color: #139882;
+}
+
+body.titulo{
+  padding: 1rem;
 }
