@@ -3,9 +3,6 @@
   box-sizing: border-box;
 }
 
-.titulo {
-  padding: 1rem;
-}
 
 ol.texto {
   display: grid;
@@ -15,22 +12,23 @@ ol.texto {
   margin: 1rem;
 }
 
-ol.texto li {
+ol.texto {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Centraliza o conteúdo verticalmente */
+  justify-content: center; 
   padding: 1rem;
-  border-radius: 1rem;
+  border-radius: 20px;
   background-color: #0f7967;
   color: rgb(204, 204, 204);
   max-width: fit-content;
 }
 
-.texto img /*imagem*/ {    
+.texto img {    
   display: flex;            
   max-width: 180px;
   max-height: 180px;
   object-fit: cover;
+  border-radius: 10px;
   object-position: center;
 }
 
@@ -38,6 +36,10 @@ li.type {
   color: #139882;
 }
 
-body.titulo{
-  padding: 1rem;
+ul.number {
+  padding-left: 0;
+}
+
+ol.types {
+padding: 0;
 }
