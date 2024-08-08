@@ -7,7 +7,7 @@
   padding: 1rem;
 }
 
-.texto {
+ol.texto {
   display: grid;
   grid-template-columns: 1fr 1fr;
   list-style: none;
@@ -37,11 +37,7 @@ ol.texto li {
 li.type {
   color: #139882;
 }
-/*
-li.number {
- 
-}
-*/
+
 body.titulo{
   padding: 1rem;
 }
