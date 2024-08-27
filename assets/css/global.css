@@ -14,7 +14,7 @@ ol.texto {
 
 ol.texto {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center; 
   padding: 1rem;
   border-radius: 20px;
@@ -38,8 +38,13 @@ li.type {
 
 ul.number {
   padding-left: 0;
+  color: rgba(164, 164, 164, 0.665);
 }
 
 ol.types {
 padding: 0;
+}
+
+h1 {
+  padding-left: 1rem;
 }
