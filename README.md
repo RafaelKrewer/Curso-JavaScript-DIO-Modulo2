@@ -1,7 +1,5 @@
 <h1 align="center"> Título </h1>
 
-![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
-
 # Índice 
 
  <p> Título e Imagem de capa
