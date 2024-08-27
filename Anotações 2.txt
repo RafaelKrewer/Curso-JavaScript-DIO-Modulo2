@@ -91,7 +91,9 @@ Remoto
 Upstream	
     O branch em um repositório original em que foi criado um fork ou clonado. O branch correspondente no branch clonado ou em que o fork foi criado é chamado de "downstream".
 
-
+Retornar aba fechada:
+    Ctrl + Shift + T
+    
 //
 
 
