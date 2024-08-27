@@ -8,15 +8,13 @@
  
  <a>Descrição do Projeto</a>
  
- <a>Link de Acesso ao Projeto: https://rafaelkrewer.github.io/Curso-JavaScript-DIO-Modulo2/</a>
- 
  <a>Tecnologias utilizadas: JavaScript, HTML, CSS</a>
  
  <a>Contribuidores: César Krewer, Rafael Krewer</a>
  
  <a>Desenvolvedores do Projeto: Rafael Krewer</a>
 
- <a>Conclusão: Espero que não demore muito para fazer esse site</a>
+ <a>Conclusão: Espero que eu não demore pra terminar</a>
  
  <p>
 > :construction: Projeto em construção :construction:
