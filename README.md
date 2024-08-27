@@ -2,9 +2,7 @@
 
 # Índice 
 
- <p> Título e Imagem de capa
- 
- <a>Descrição do Projeto</a>
+ <p> 
  
  <a>Tecnologias utilizadas: JavaScript, HTML, CSS</a>
  
