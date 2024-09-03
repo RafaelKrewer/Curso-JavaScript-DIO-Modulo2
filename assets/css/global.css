@@ -5,8 +5,7 @@
 
 
 ol.texto {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  
   list-style: none;
   padding: 0;
   margin: 1rem;
@@ -50,6 +49,7 @@ h1 {
 }
 
 section.main {
-  display: grid;
   max-width: fit-content;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
