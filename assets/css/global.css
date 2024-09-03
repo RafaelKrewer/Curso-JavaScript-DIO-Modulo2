@@ -3,9 +3,13 @@
   box-sizing: border-box;
 }
 
+/*
+h1 {
+  
+}
+*/
 
 ol.texto {
-  
   list-style: none;
   padding: 0;
   margin: 1rem;
@@ -42,10 +46,6 @@ ul.number {
 
 ol.types {
   padding: 0;
-}
-
-h1 {
-  padding-left: 1rem;
 }
 
 section.main {
