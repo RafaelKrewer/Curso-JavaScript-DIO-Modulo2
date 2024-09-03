@@ -49,6 +49,7 @@ h1 {
   padding-left: 1rem;
 }
 
-section {
+section.main {
   display: grid;
+  max-width: fit-content;
 }
