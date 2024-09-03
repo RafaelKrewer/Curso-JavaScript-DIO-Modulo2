@@ -42,9 +42,13 @@ ul.number {
 }
 
 ol.types {
-padding: 0;
+  padding: 0;
 }
 
 h1 {
   padding-left: 1rem;
+}
+
+section {
+  display: grid;
 }
