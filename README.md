@@ -6,7 +6,7 @@
  
  <a>Tecnologias utilizadas: JavaScript, HTML, CSS</a>
  
- <a>Contribuidores: César Krewer, Rafael Krewer</a>
+ <a>Contribuidores: Rafael Krewer</a>
  
  <a>Desenvolvedores do Projeto: Rafael Krewer</a>
 
