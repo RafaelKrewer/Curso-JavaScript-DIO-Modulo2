@@ -3,11 +3,11 @@
   box-sizing: border-box;
 }
 
-/*
+
 h1 {
-  
+ align-items: center; 
 }
-*/
+
 
 ol.texto {
   list-style: none;
