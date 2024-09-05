@@ -94,6 +94,10 @@ Upstream
 Retornar aba fechada:
     Ctrl + Shift + T
     
+    Align items --- Vertical
+    Justify-content --- Horizontal
+
+    
 //
 
 
