@@ -10,14 +10,12 @@ h1 {
 }
 
 
-ol.texto {
-  list-style: none;
-  padding: 0;
-  margin: 1rem;
-}
+
 
 ol.texto {
   display: flex;
+  list-style: none;
+  margin: 1rem;
   flex-direction: row;
   justify-content: center; 
   padding: 1rem;
@@ -25,6 +23,7 @@ ol.texto {
   background-color: #0f7967;
   color: rgb(204, 204, 204);
   max-width: fit-content;
+  
 }
 
 .texto img {    

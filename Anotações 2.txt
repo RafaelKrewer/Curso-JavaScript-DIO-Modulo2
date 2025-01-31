@@ -194,3 +194,21 @@ Pull = Puxar
 Desfazer o Control Z:
 Control + Y
 
+
+    <ol> (Ordered List – Lista Ordenada)
+Cria uma lista numerada.
+Cada item é representado por <li>.
+
+    <ul> (Unordered List – Lista Não Ordenada)
+Cria uma lista com marcadores (bolinhas, quadrados, etc.).
+Também usa <li> para os itens.
+    
+    <li> (List Item – Item de Lista)
+Define cada item dentro de <ol> ou <ul>.
+
+    <div> (Bloco de Agrupamento)
+Um elemento de bloco usado para agrupar conteúdos.
+Perfeito para estruturar seções e aplicar estilos com CSS.
+
+    <span> (Destaque Inline)
+Um elemento inline, usado para estilizar partes específicas do texto dentro de um bloco.
