@@ -7,12 +7,6 @@ rafaelkrewer5@gmail.com
 salvacao1@
 
 
-Ideias:
-Fazer uma calculadora;
-Aprender ReactJS (tem o curso na DIO)
-Lógica de Programação
-
-
 Atalhos:
 
 Dar um print no terminal:
@@ -200,11 +194,3 @@ Pull = Puxar
 Desfazer o Control Z:
 Control + Y
 
-Instalar um servidor http:
-    npm install -g http-server
-
-Iniciar um servidor http:
-    http-server ./
-
-Voltar para configuração original do DevTools (inspecionar) (deleta element.style)
-    F5
