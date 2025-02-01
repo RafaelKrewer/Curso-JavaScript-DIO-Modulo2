@@ -16,7 +16,7 @@ h1 {
 ol.texto {
   display: flex;
   list-style: none;
-  flex-direction: row;
+  flex-direction: column; /* Mudei para coluna para alinhar tudo verticalmente */
   justify-content: center;
   border-radius: auto;
   color: rgb(0, 0, 0);
@@ -27,7 +27,7 @@ ol.texto {
 img {
   display: block;
   max-height: 278px;
-  align-items: center;
+  align-self: center; /* Garante que a imagem seja centralizada */
 }
 
 ul.number {
@@ -38,19 +38,25 @@ ul.number {
 section.column {
   max-width: fit-content;
   display: flex;
+  flex-direction: column; /* Para garantir que os itens fiquem alinhados na coluna */
+  align-items: center; /* Alinha os itens no centro horizontalmente */
 }
 
-span.name {
+span.nome {
   display: block;
   width: auto;
   height: auto;
   margin: auto;
+  padding: 6px;
 }
 
 span.preço {
   display: block;
   font-size: 20px;
+  color: rgb(255, 255, 255);
   margin: auto;
+  padding: 2px 4px;
+  background-color: rgb(17, 123, 86);
 }
 
 div.main {
@@ -59,8 +65,16 @@ div.main {
 
 li.legenda {
   padding-right: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Alinha todos os elementos dentro da legenda */
+  justify-content: center;
 }
 
 div.legendaviolao {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
   padding-top: 20px;
 }
