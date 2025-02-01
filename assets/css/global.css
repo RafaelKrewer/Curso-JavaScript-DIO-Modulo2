@@ -1,15 +1,11 @@
 * {
-  font-family: "Roboto", sans-serif;
+  font-family: "Work-Sans", sans-serif;
   box-sizing: border-box;
-}
-
-body.texto {
-  justify-content: center;
+  text-align: center;
 }
 
 h1 {
-  
-  max-width: 50%; 
+  max-width: max-content;
 }
 
 ol.texto {
@@ -44,9 +40,12 @@ section.column {
 
 span.name {
   display: block;
-  text-align: center;
+  width: auto;
+  height: auto;
+  
 }
 
 span.number {
-  background-color: rgb(16, 118, 101);
+  font-size: 20px;
+  margin: auto
 }
