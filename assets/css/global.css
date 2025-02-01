@@ -10,6 +10,7 @@ h1 {
   margin-bottom: 8px;
   padding-top: 16px;
   padding-bottom: 16px;
+  font-size: 40px;
 }
 
 ol.texto {
@@ -20,11 +21,13 @@ ol.texto {
   border-radius: auto;
   color: rgb(0, 0, 0);
   max-width: fit-content;
+  padding-left: 60px;
 }
 
 img {
   display: block;
   max-height: 278px;
+  align-items: center;
 }
 
 ul.number {
@@ -56,4 +59,8 @@ div.main {
 
 li.legenda {
   padding-right: 16px;
+}
+
+div.legendaviolao {
+  padding-top: 20px;
 }
