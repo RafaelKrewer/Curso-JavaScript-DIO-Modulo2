@@ -8,9 +8,8 @@ body.texto {
 }
 
 h1 {
-  padding-top: 16px;
-  padding-bottom: 16px;
-  max-width: 30%; 
+  
+  max-width: 50%; 
 }
 
 ol.texto {
@@ -18,24 +17,16 @@ ol.texto {
   list-style: none;
   flex-direction: row;
   justify-content: center; 
-  padding: 1rem;
-  border-radius: 20px;
+  padding-right: 1rem;
+  border-radius: auto;
   color: rgb(0, 0, 0);
   max-width: fit-content;
   
 }
 
-.texto img {    
+img {    
   display: flex;            
-  max-width: auto;
-  max-height: auto;
-  object-fit: cover;
-  border-radius: 10px;
-  object-position: center;
-}
-
-li.type {
-  color: #139882;
+  max-height: 278px;
 }
 
 ul.number {
@@ -51,9 +42,11 @@ section.column {
   
 }
 
-span {
+span.name {
   display: block;
   text-align: center;
-  padding: 6px;
 }
 
+span.number {
+  background-color: rgb(16, 118, 101);
+}
