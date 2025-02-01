@@ -1,3 +1,7 @@
+
+
+Ideia do site concluído: Fazer como se fosse um site vendendo violões. 
+
 DIO:
 rafaelkrewer5@gmail.com
 salvacao
@@ -212,3 +216,12 @@ Perfeito para estruturar seções e aplicar estilos com CSS.
 
     <span> (Destaque Inline)
 Um elemento inline, usado para estilizar partes específicas do texto dentro de um bloco.
+
+
+block	Ocupa toda a largura disponível e quebra a linha.
+inline	Ocupa apenas o espaço necessário, sem quebrar a linha.
+inline-block	Como inline, mas permite definir altura e largura.
+none	Esconde o elemento da página.
+flex	Usa Flexbox para organizar elementos.
+grid	Usa CSS Grid para layouts avançados.
+table	Se comporta como uma tabela.
