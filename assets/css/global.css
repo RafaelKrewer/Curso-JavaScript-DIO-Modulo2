@@ -6,10 +6,18 @@
 
 h1 {
   max-width: max-content;
-  padding-top: 0px;
+  padding-top: 60px;
   padding-bottom: 0px;
   margin: 0px;
-  font-size: 20px;
+  font-size: 40px;
+}
+
+section.column {
+  max-width: fit-content;
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  padding-top: 10px;
 }
 
 ol.texto {
@@ -25,7 +33,7 @@ ol.texto {
 
 img {
   display: block; /* Evita espaços extras ao redor da imagem */
-  max-height: 200px;
+  max-height: 278.38px;
   max-width: 100%; /* Garante que a imagem não ultrapasse os limites */
   position: relative; /* Mantém a posição fixa dentro do fluxo do layout */
   align-self: center;
@@ -36,12 +44,6 @@ ul.number {
   color: rgba(164, 164, 164, 0.745);
 }
 
-section.column {
-  max-width: fit-content;
-  display: flex;
-  flex-direction: column; /* Para garantir que os itens fiquem alinhados na coluna */
-  align-items: center; /* Alinha os itens no centro horizontalmente */
-}
 
 span.nome {
   display: block;
@@ -49,23 +51,23 @@ span.nome {
   height: auto;
   margin: auto;
   padding: 6px;
-  font-size: 10px;
+  font-size: 16px;
+  color: rgb(64, 64, 64);
 }
 
 span.preço {
   display: inline;
-  font-size: 11px;
+  font-size: 20px;
   color: rgb(0, 0, 0);
   margin: auto;
   padding: 0px 4px;
-  
 }
 span.quadradoverde {
   display: inline;
-  padding: 6px;
+  padding: 10px 6px;
   background-color: rgb(2, 109, 75);
   color: rgb(255, 255, 255);
-  font-size: 6px;
+  font-size: 10px;
 }
 
 div.main {
@@ -73,13 +75,11 @@ div.main {
   padding-top: 8px;
 }
 
-
-
 div.legendaviolao {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 15px;
+  max-width: 158.39px;
 }
-
