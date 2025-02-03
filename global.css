@@ -32,7 +32,7 @@ ol.texto {
   padding-left: 70px;
 }
 
-img{
+img {
   display: block; /* Evita espaços extras ao redor da imagem */
   max-height: 380px;
   max-width: 100%; /* Garante que a imagem não ultrapasse os limites */
