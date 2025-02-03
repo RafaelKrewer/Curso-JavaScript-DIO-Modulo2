@@ -1,12 +1,16 @@
 var imgf = new Image();
 imgf.src = "000-15M_f.webp";
+
 var imgb = new Image();
 imgb.src = "000-15M_b.webp";
 
+// Corrigir a referência à imagem
+var imagem = document.getElementsByName("imagem1")[0];
+
 function swap() {
-    imagem1.src = imgf.src;
+    imagem.src = imgb.src;
 }
 
 function back() {
-    imagem1.src = imgb.src;
+    imagem.src = imgf.src;
 }
