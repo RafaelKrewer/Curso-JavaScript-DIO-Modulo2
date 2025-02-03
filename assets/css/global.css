@@ -6,7 +6,7 @@
 
 h1 {
   max-width: max-content;
-  padding-top: 60px;
+  padding-top: 80px;
   padding-bottom: 0px;
   margin: 0px;
   font-size: 40px;
@@ -33,10 +33,12 @@ ol.texto {
 
 img {
   display: block; /* Evita espaços extras ao redor da imagem */
-  max-height: 278.38px;
+  max-height: 380px;
   max-width: 100%; /* Garante que a imagem não ultrapasse os limites */
   position: relative; /* Mantém a posição fixa dentro do fluxo do layout */
   align-self: center;
+  cursor: pointer;
+  transition: opacity 0.3s ease-in-out;
 }
 
 ul.number {
@@ -49,7 +51,7 @@ span.nome {
   width: auto;
   height: auto;
   margin: auto;
-  padding: 6px;
+  padding: 12px 0px;
   font-size: 16px;
   color: rgb(64, 64, 64);
 }
