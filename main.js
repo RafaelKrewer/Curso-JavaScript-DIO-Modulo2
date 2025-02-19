@@ -14,4 +14,5 @@ function swap() {
 function back() {
     imagem.src = imgf.src;
 }
+
         
