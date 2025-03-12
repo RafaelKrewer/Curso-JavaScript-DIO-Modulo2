@@ -1,8 +1,8 @@
 var imgf = new Image();
-imgf.src = "000-15M_f.novo.png";
+imgf.src = "imgs/000-15M_f.novo.png";
 
 var imgb = new Image();
-imgb.src = "000-15M_b.webp";
+imgb.src = "imgs/000-15M_b.webp";
 
 
 var imagem = document.getElementsByName("imagem1")[0];
