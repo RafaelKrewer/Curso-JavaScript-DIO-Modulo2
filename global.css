@@ -4,6 +4,7 @@
   text-align: center;
 }
 
+
 h1 {
   max-width: max-content;
   padding-top: 31px;
@@ -12,17 +13,9 @@ h1 {
   font-size: 40px;
 }
 
-section.column {
-  max-width: fit-content;
+.column, .column2 {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 18px;
-  padding-left: 18px;
-}
-section.column2 {
   max-width: fit-content;
-  display: flex;
   flex-direction: column;
   align-items: center;
   padding-top: 18px;
@@ -32,19 +25,18 @@ section.column2 {
 ol.texto {
   display: flex;
   list-style: none;
-  flex-direction: column; /* Mudei para coluna para alinhar tudo verticalmente */
+  flex-direction: column;
   justify-content: center;
-  border-radius: auto;
   color: rgb(0, 0, 0);
   max-width: fit-content;
   padding-left: 70px;
 }
 
 img {
-  display: block; /* Evita espaços extras ao redor da imagem */
+  display: block; 
   max-height: 380px;
-  max-width: 100%; /* Garante que a imagem não ultrapasse os limites */
-  position: relative; /* Mantém a posição fixa dentro do fluxo do layout */
+  max-width: 100%; 
+  position: relative; 
   align-self: center;
   cursor: pointer;
 }
@@ -61,11 +53,11 @@ span.nome {
   margin: auto;
   padding: 12px 0px;
   font-size: 16px;
-  color: rgb(64, 64, 64);
+  color: rgb(84, 84, 84);
 }
 
 span.preço {
-  display: inline;
+  display: block;
   font-size: 20px;
   color: rgb(0, 0, 0);
   margin: auto;
